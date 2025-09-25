@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(213, 255, 4);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ :root {
+   --color1: pink;
+   --color2: lightblue;
+   --color3: rgb(116, 47, 234);
+   --color4: rgb(42, 237, 120);
+   --color5: #f3f32a;
+   --color6: rgb(241, 32, 32);
+   --fuente: Arial, sans-serif;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+ 
+.item {
+    background-color: lightblue;
+    border: 2px solid rgb(27, 212, 233);
+    padding: 20px;
+    text-align: center;
+}
+#item1 {
+    background-color: rgb(90, 216, 115);
+    border: 2px solid rgb(0, 13, 255);
+}
+#item6 {
+    background-color: rgb(255, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+}
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
