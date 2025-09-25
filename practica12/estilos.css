@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(227, 217, 199);
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    font-size: 50px;
+    text-align: center;
+}
+a{
+    color: rgb(31, 151, 255);
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    display: block;
+    margin: 50px;
+    padding: 20px;
+}
+
+a:hover {
+background-color: rgb(129, 230, 46);
+color: black;
+
+}
+
+#padre {
+    font-size: 20px;
+    
+}
+
+h2 {
+    font-size: 4em; /* 4 veces el tamaño de fuente del elemento padre */
+}
+
+h3 {
+    font-size: 5.5em; /* 5 veces el tamaño de fuente del elemento padre */
+}
