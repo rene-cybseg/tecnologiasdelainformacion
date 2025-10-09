@@ -1,0 +1,19 @@
+body{
+    background-color: lightgray;
+    font-size: large;
+    color : black;
+    padding: 0px;
+    margin: 0px;
+    font-family: "Bodoni Moda", serif;
+    text-align: center;
+}
+#encabezado{
+    background-color: grey;
+    border : 2px solid black;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 28px 25px 8px 0px rgba(0,0,0,0.64);
+-webkit-box-shadow: 28px 25px 8px 0px rgba(0,0,0,0.64);
+-moz-box-shadow: 28px 25px 8px 0px rgba(0,0,0,0.64);
+
+}
